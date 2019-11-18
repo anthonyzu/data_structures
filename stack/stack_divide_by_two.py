@@ -26,6 +26,3 @@ def div_by_2(dec_num):
         bin_num += str(s.pop())
     
     return bin_num
-
-print (div_by_2(242))
-  
